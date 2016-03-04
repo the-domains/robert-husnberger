@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert Hunsberger]]></title>
+        <description><![CDATA[Robert Hunsberger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 22:35:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R. Hunsberger & Associates Inc.]]></title>
+            <description><![CDATA[<article><h1>R. Hunsberger & Associates Inc.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df4e19f9c391fe2ddb6bb94a5181cf5237671393.jpg"></article>]]></description>
+            <link>undefined204bc411-c3dd-4d1f-848c-3bb57ba07bff/index.html</link>
+            <guid isPermaLink="false">204bc411-c3dd-4d1f-848c-3bb57ba07bff</guid>
+            <pubDate>Fri, 04 Mar 2016 22:34:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
