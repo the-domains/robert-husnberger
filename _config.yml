@@ -1,6 +1,6 @@
 name: Robert Hunsberger
 favicon: null
-layout_spectrum: 0.2447
+layout_spectrum: 0.49592
 typography_spectrum: 0.16932
 title: Robert Hunsberger
 cta:
@@ -23,7 +23,7 @@ color:
     - '#00ff01'
     - '#ffffff'
   brandStrength: 1
-  lightness: 0.875
+  lightness: 0.5
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
